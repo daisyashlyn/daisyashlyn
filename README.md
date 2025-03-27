@@ -1,8 +1,7 @@
 ## Hi there 👋
-#My name is Daisy
-#I am currently just curious, but mainly interested in AI/ML/DL. 
-#I am currently learning about AI/ML/DL. 
-#Fun fact I love the ocean. 
+My name is Daisy
+I am currently just curious, but mainly interested learning about AI/ML/DL. 
+Fun fact I love the ocean. 
 <!--
 **daisyashlyn/daisyashlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
